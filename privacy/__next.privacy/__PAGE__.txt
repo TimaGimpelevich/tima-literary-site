@@ -1,0 +1,35 @@
+1:"/_next/static/chunks/0ct9u7z5p922k.js"
+2:"LoadingBoundaryProvider"
+3:I[39756,["$1"],"$2"]
+4:"$Sreact.fragment"
+5:I[45850,["$1"],"Header"]
+6:I[39756,["$1"],"default"]
+7:"/_next/static/chunks/2wpcpk4hq-3u8.js"
+8:I[8821,["$1","$7"],"default"]
+9:I[37457,["$1"],"default"]
+a:I[22016,["$1"],""]
+b:I[45850,["$1"],"Footer"]
+c:I[45850,["$1"],"Atmosphere"]
+13:I[97367,["$1"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$1"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$1"],"$19"]
+1b:I[27201,["$1"],"IconMark"]
+:HL["/_next/static/chunks/054yx4lww1ser.css","style"]
+e:X
+11:X
+11:C
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","article",null,{"className":"section inner-page prose","children":[["$","span",null,{"className":"eyebrow","children":"РЕДАКЦИЯ ОТ 08.11.2026 / ЛОКАЛЬНАЯ ВЕРСИЯ"}],["$","h1",null,{"children":["Твоё личное",["$","br",null,{}],["$","em",null,{"children":"пространство."}]]}],["$","h2",null,{"children":"Какие данные использует сайт"}],["$","p",null,{"children":"Форма работает на твоём устройстве. Введённые идея, формат, настроение и электронная почта попадают только в файл, который ты скачиваешь по своему действию. Эти сведения не отправляются автору и не сохраняются на сервере сайта. Не включай в заявку чужие персональные данные и чувствительную информацию."}],["$","h2",null,{"children":"Настройки чтения"}],["$","p",null,{"children":"Размер шрифта, тема и позиция демонстрационного текста сохраняются в localStorage этого браузера. Удалить их можно кнопкой «Сбросить настройки» в читалке или очисткой данных сайта в браузере."}],["$","h2",null,{"children":"Аналитика"}],["$","p",null,{"children":"Сайт создаёт события взаимодействий внутри браузера без контактов и текста заявок. Внешний провайдер аналитики не подключён, события не передаются третьим лицам. Рекламные и аналитические cookies не используются."}],["$","h2",null,{"children":"Внешние сайты"}],["$","p",null,{"children":"Опубликованные рассказы открываются на newlit.ru. На внешнем сайте действуют его собственные правила обработки данных."}],["$","h2",null,{"children":"Перед открытием приёма заявок"}],["$","p",null,{"children":"Владелец должен определить оператора и контакт для обращений, сроки хранения, цели и правовое основание обработки; настроить защищённый сервер, удаление заявок и защиту от спама. До этого отправка данных отключена. Эта страница описывает текущий локальный режим."}]]}],null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$e"}}]]
+f:[["children",{"s":"privacy","h":96,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@10","v":"$11","s":"$e"},"c":"$Q12"}]]
+0:{"t":{"t":{"s":"","h":84,"d":{"r":["$","$L3",null,{"loading":[["$","div","l",{"className":"loading-screen","role":"status","children":[["$","span",null,{"children":"тг"}],["$","p",null,{"children":"Открываем историю…"}]]}],[],null],"children":["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/054yx4lww1ser.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0ct9u7z5p922k.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержимому"}],["$","$L5",null,{}],["$","main",null,{"id":"main","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$8","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2wpcpk4hq-3u8.js","async":true}]],"template":["$","$L9",null,{}],"notFound":[["$","section",null,{"className":"section inner-page","children":[["$","span",null,{"className":"eyebrow","children":"404 / НЕ НАПИСАННАЯ СТРАНИЦА"}],["$","h1",null,{"children":["Эта история",["$","br",null,{}],["$","em",null,{"children":"ещё не началась."}]]}],["$","$La",null,{"href":"/","className":"button primary","children":"На главную ↗"}]]}],[]]}]}],["$","$Lb",null,{}],["$","$Lc",null,{}]]}]}]]}]}],"p":"$@d","v":null,"s":"$e"},"c":"$Qf"},"h":{"r":["$","$4","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Конфиденциальность — Тима Гимпелевич"}],["$","meta","1",{"name":"description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","2",{"property":"og:title","content":"Конфиденциальность — Тима Гимпелевич"}],["$","meta","3",{"property":"og:description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","4",{"property":"og:locale","content":"ru_RU"}],["$","meta","5",{"property":"og:image","content":"http://localhost:3100/og.png"}],["$","meta","6",{"property":"og:image:width","content":"1200"}],["$","meta","7",{"property":"og:image:height","content":"630"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Конфиденциальность — Тима Гимпелевич"}],["$","meta","11",{"name":"twitter:description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","12",{"name":"twitter:image","content":"http://localhost:3100/og.png"}],["$","link","13",{"rel":"icon","href":"/icon.svg"}],["$","$L1b","14",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$e"}},"a":"$@1d","u":"$@1e","b":"9dra6mlOQ9t670Ox43GsK"}
+15:null
+e:300
+1e:true
+e:C
+1d:0
+10:"$undefined"
+d:"$undefined"
+1c:"$undefined"
+16:"$undefined"
