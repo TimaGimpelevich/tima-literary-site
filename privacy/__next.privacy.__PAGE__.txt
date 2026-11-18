@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/24cvfidom7ryp.js"
+3:I[45850,["$2"],"Header"]
+4:I[39756,["$2"],"default"]
+5:"/_next/static/chunks/2wpcpk4hq-3u8.js"
+6:I[8821,["$2","$5"],"default"]
+7:I[37457,["$2"],"default"]
+8:I[22016,["$2"],""]
+9:I[45850,["$2"],"Footer"]
+a:I[45850,["$2"],"Atmosphere"]
+b:I[86844,["$2"],"LaunchAnalytics"]
+12:I[97367,["$2"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$2"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$2"],"$18"]
+1a:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/29y5q3nmqekei.css","style"]
+d:X
+10:X
+10:C
+11:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"section inner-page prose","children":[["$","span",null,{"className":"eyebrow","children":"РЕДАКЦИЯ ОТ 18.11.2026"}],["$","h1",null,{"children":["Твоё личное",["$","br",null,{}],["$","em",null,{"children":"пространство."}]]}],["$","h2",null,{"children":"Какие данные использует сайт"}],["$","p",null,{"children":"Форма работает на твоём устройстве. Введённые идея, формат, настроение и электронная почта попадают только в файл, который ты скачиваешь по своему действию. Эти сведения не отправляются автору и не сохраняются на сервере сайта. Не включай в заявку чужие персональные данные и чувствительную информацию."}],["$","h2",null,{"children":"Настройки чтения"}],["$","p",null,{"children":"Размер шрифта, тема и позиция текста сохраняются в localStorage этого браузера. Удалить их можно кнопкой «Сбросить настройки» в читалке или очисткой данных сайта в браузере."}],["$","h2",null,{"children":"Аналитика"}],["$","p",null,{"children":"Сайт создаёт события взаимодействий внутри браузера без контактов и текста заявок. Внешний провайдер аналитики не подключён, события не передаются третьим лицам. Рекламные и аналитические cookies не используются."}],["$","p",null,{"children":"UTM-метки источника перехода передаются между внутренними страницами в адресной строке. При открытии внешних площадок эти метки автоматически не добавляются. События показа фрагментов текста описывают его видимость на экране и не доказывают прочтение или понимание произведения."}],["$","h2",null,{"children":"Внешние сайты"}],["$","p",null,{"children":"Опубликованные рассказы открываются на newlit.ru. На внешнем сайте действуют его собственные правила обработки данных."}],["$","h2",null,{"children":"Перед открытием приёма заявок"}],["$","p",null,{"children":"Владелец должен определить оператора и контакт для обращений, сроки хранения, цели и правовое основание обработки; настроить защищённый сервер, удаление заявок и защиту от спама. До этого отправка данных отключена. Эта страница описывает текущий режим работы сайта."}]]}],null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$d"}}]]
+e:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@f","v":"$10","s":"$d"},"c":"$Q11"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/29y5q3nmqekei.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/24cvfidom7ryp.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержимому"}],["$","$L3",null,{}],["$","main",null,{"id":"main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$6","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2wpcpk4hq-3u8.js","async":true}]],"template":["$","$L7",null,{}],"notFound":[["$","section",null,{"className":"section inner-page","children":[["$","span",null,{"className":"eyebrow","children":"404 / НЕ НАПИСАННАЯ СТРАНИЦА"}],["$","h1",null,{"children":["Эта история",["$","br",null,{}],["$","em",null,{"children":"ещё не началась."}]]}],["$","$L8",null,{"href":"/","className":"button primary","children":"На главную ↗"}]]}],[]]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}]}]]}],"p":"$@c","v":null,"s":"$d"},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Конфиденциальность — Тима Гимпелевич"}],["$","meta","1",{"name":"description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","link","2",{"rel":"canonical","href":"https://timagimpelevich.ru/privacy/"}],["$","meta","3",{"property":"og:title","content":"Конфиденциальность — Тима Гимпелевич"}],["$","meta","4",{"property":"og:description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","5",{"property":"og:locale","content":"ru_RU"}],["$","meta","6",{"property":"og:image","content":"https://timagimpelevich.ru/og.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Конфиденциальность — Тима Гимпелевич"}],["$","meta","12",{"name":"twitter:description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","13",{"name":"twitter:image","content":"https://timagimpelevich.ru/og.png"}],["$","link","14",{"rel":"icon","href":"/icon.svg"}],["$","$L1a","15",{}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$d"}},"a":"$@1c","u":"$@1d","b":"yO0f4IovXMd28liCN3F4r"}
+14:null
+d:300
+1d:true
+d:C
+1c:0
+f:"$undefined"
+c:"$undefined"
+1b:"$undefined"
+15:"$undefined"

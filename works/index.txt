@@ -1,31 +1,30 @@
-1:"/_next/static/chunks/0ct9u7z5p922k.js"
-2:"LoadingBoundaryProvider"
-3:I[39756,["$1"],"$2"]
-4:"$Sreact.fragment"
-5:I[45850,["$1"],"Header"]
-6:I[39756,["$1"],"default"]
-7:"/_next/static/chunks/2wpcpk4hq-3u8.js"
-8:I[8821,["$1","$7"],"default"]
-9:I[37457,["$1"],"default"]
-a:I[22016,["$1"],""]
-b:I[45850,["$1"],"Footer"]
-c:I[45850,["$1"],"Atmosphere"]
-10:"/_next/static/chunks/0m2pm7hk6gw9y.js"
-11:I[67504,["$1","$10"],"WorkGallery"]
-12:I[97367,["$1"],"OutletBoundary"]
-13:"$Sreact.suspense"
-15:"ViewportBoundary"
-16:I[97367,["$1"],"$15"]
-18:"MetadataBoundary"
-19:I[97367,["$1"],"$18"]
-1b:I[68027,["$1"],"default",1]
-:HL["/_next/static/chunks/054yx4lww1ser.css","style"]
-e:X
-f:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$4","c",{"children":[["$","section",null,{"className":"section inner-page","children":[["$","span",null,{"className":"eyebrow","children":"БИБЛИОТЕКА / 2 ОПУБЛИКОВАННЫХ РАССКАЗА"}],["$","h1",null,{"children":["Выбери свою",["$","br",null,{}],["$","em",null,{"children":"точку входа."}]]}],["$","p",null,{"className":"page-description","children":"Разные миры. Узнаваемые чувства. Истории, которые продолжаются внутри тебя."}],["$","$L11",null,{"filterable":true}],["$","p",null,{"className":"fine-print","children":"Публикации журнала «Новая Литература». Жанровые подборки и аннотации подготовлены для сайта."}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0m2pm7hk6gw9y.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":false,"v":null}}]]
-d:[["children",{"s":"works","h":512,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$e"},"c":"$Qf"}]]
-0:{"P":null,"c":["","works",""],"q":"","i":false,"t":{"t":{"s":"","h":532,"d":{"r":["$","$L3",null,{"loading":[["$","div","l",{"className":"loading-screen","role":"status","children":[["$","span",null,{"children":"тг"}],["$","p",null,{"children":"Открываем историю…"}]]}],[],null],"children":["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/054yx4lww1ser.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0ct9u7z5p922k.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержимому"}],["$","$L5",null,{}],["$","main",null,{"id":"main","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$8","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2wpcpk4hq-3u8.js","async":true,"nonce":"$undefined"}]],"template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section inner-page","children":[["$","span",null,{"className":"eyebrow","children":"404 / НЕ НАПИСАННАЯ СТРАНИЦА"}],["$","h1",null,{"children":["Эта история",["$","br",null,{}],["$","em",null,{"children":"ещё не началась."}]]}],["$","$La",null,{"href":"/","className":"button primary","children":"На главную ↗"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Lb",null,{}],["$","$Lc",null,{}]]}]}]]}]}],"p":false,"v":null},"c":"$Qd"},"h":{"r":["$","$4","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":"$L1a"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1b",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/054yx4lww1ser.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"beVlGID5JeRF9uwV9kqza"}
-e:C
-17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1c:I[27201,["$1"],"IconMark"]
-14:null
-1a:[["$","title","0",{"children":"Произведения — Тима Гимпелевич"}],["$","meta","1",{"name":"description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","2",{"property":"og:title","content":"Произведения — Тима Гимпелевич"}],["$","meta","3",{"property":"og:description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","4",{"property":"og:locale","content":"ru_RU"}],["$","meta","5",{"property":"og:image","content":"https://timagimpelevich-tima-literary-site-f8e0.twc1.net/og.png"}],["$","meta","6",{"property":"og:image:width","content":"1200"}],["$","meta","7",{"property":"og:image:height","content":"630"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Произведения — Тима Гимпелевич"}],["$","meta","11",{"name":"twitter:description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","12",{"name":"twitter:image","content":"https://timagimpelevich-tima-literary-site-f8e0.twc1.net/og.png"}],["$","link","13",{"rel":"icon","href":"/icon.svg"}],["$","$L1c","14",{}]]
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/24cvfidom7ryp.js"
+3:I[45850,["$2"],"Header"]
+4:I[39756,["$2"],"default"]
+5:"/_next/static/chunks/2wpcpk4hq-3u8.js"
+6:I[8821,["$2","$5"],"default"]
+7:I[37457,["$2"],"default"]
+8:I[22016,["$2"],""]
+9:I[45850,["$2"],"Footer"]
+a:I[45850,["$2"],"Atmosphere"]
+b:I[86844,["$2"],"LaunchAnalytics"]
+f:"/_next/static/chunks/3qdkcv9o-_09h.js"
+10:I[67504,["$2","$f"],"WorkGallery"]
+11:I[97367,["$2"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$2"],"$14"]
+17:"MetadataBoundary"
+18:I[97367,["$2"],"$17"]
+1a:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/29y5q3nmqekei.css","style"]
+d:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"section inner-page","children":[["$","span",null,{"className":"eyebrow","children":"БИБЛИОТЕКА / 2 ОПУБЛИКОВАННЫХ РАССКАЗА"}],["$","h1",null,{"children":["Выбери свою",["$","br",null,{}],["$","em",null,{"children":"точку входа."}]]}],["$","p",null,{"className":"page-description","children":"Разные миры. Узнаваемые чувства. Истории, которые продолжаются внутри тебя."}],["$","$L10",null,{"filterable":true}],["$","p",null,{"className":"fine-print","children":"Публикации журнала «Новая Литература». Жанровые подборки и аннотации подготовлены для сайта."}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3qdkcv9o-_09h.js","async":true,"nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":false,"v":null}}]]
+c:[["children",{"s":"works","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qe"}]]
+0:{"P":null,"c":["","works",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/29y5q3nmqekei.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/24cvfidom7ryp.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержимому"}],["$","$L3",null,{}],["$","main",null,{"id":"main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$6","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2wpcpk4hq-3u8.js","async":true,"nonce":"$undefined"}]],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section inner-page","children":[["$","span",null,{"className":"eyebrow","children":"404 / НЕ НАПИСАННАЯ СТРАНИЦА"}],["$","h1",null,{"children":["Эта история",["$","br",null,{}],["$","em",null,{"children":"ещё не началась."}]]}],["$","$L8",null,{"href":"/","className":"button primary","children":"На главную ↗"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":"$L19"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1a",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/29y5q3nmqekei.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"yO0f4IovXMd28liCN3F4r"}
+d:C
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["$2"],"IconMark"]
+13:null
+19:[["$","title","0",{"children":"Произведения — Тима Гимпелевич"}],["$","meta","1",{"name":"description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","link","2",{"rel":"canonical","href":"https://timagimpelevich.ru/works/"}],["$","meta","3",{"property":"og:title","content":"Произведения — Тима Гимпелевич"}],["$","meta","4",{"property":"og:description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","5",{"property":"og:locale","content":"ru_RU"}],["$","meta","6",{"property":"og:image","content":"https://timagimpelevich.ru/og.png"}],["$","meta","7",{"property":"og:image:width","content":"1200"}],["$","meta","8",{"property":"og:image:height","content":"630"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Произведения — Тима Гимпелевич"}],["$","meta","12",{"name":"twitter:description","content":"Художественная проза, литературные эксперименты и истории, которые начинаются с тебя. Авторское пространство Тимы Гимпелевича."}],["$","meta","13",{"name":"twitter:image","content":"https://timagimpelevich.ru/og.png"}],["$","link","14",{"rel":"icon","href":"/icon.svg"}],["$","$L1b","15",{}]]

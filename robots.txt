@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://timagimpelevich-tima-literary-site-f8e0.twc1.net/sitemap.xml
+Sitemap: https://timagimpelevich.ru/sitemap.xml
