@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/3jtjerby4-pg6.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":96,"c":"$Q2"}]]
-0:{"b":"2gTALvUXuW6Kl41mPvHWj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"8hxDzhKtW80F4rCqM1qUe","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
